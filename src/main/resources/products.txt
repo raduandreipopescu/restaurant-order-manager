@@ -1,0 +1,24 @@
+Pizza Capricciosa|Sos de roșii, mozzarella, prosciutto cotto, ciuperci, roșii cherry, anghinare, porumb|10|32
+Pizza Margherita|Sos de roșii, mozzarella|10|25
+Pizza vegetariana|Sos de roșii, mozzarella, anghinare, vinete, roșii cherry, dovlecei, ciuperci, porumb|10|32
+Pizza Estiva|Mozzarella, prosciutto crudo, rucola, parmigiano, roșii cherry|10|38
+Pizza Diavola|Sos de roșii, mozzarella, salam picant|10|30
+Pizza Prosciutto e Funghi|Sos de roșii, mozzarella, prosciutto cotto, ciuperci|10|30
+Pizza Quattro Stagioni|Sos de roșii, mozzarella, prosciutto cotto, ciuperci, roșii cherry, măsline negre|10|32
+Pizza Quattro Formaggi|Mozzarella, brânzeturi mixte specialitate italiană|10|42
+Pasta ai Frutti di mare|Fructe de mare, unt, pătrunjel, usturoi|10|40
+Pasta alla Boscaiola|Smântână, ciuperci, prosciutto cotto, mazăre|10|28
+Pasta alla Arrabbiata|Sos de roșii, chili, ulei de măsline, usturoi|10|28
+Pasta alla Bolognese|Sos de roșii, carne tocată porc + vită|10|29
+Pasta ai Quattro formaggi|Smântână, gorgonzola, fontina, parmigiano, emmenthal|10|38
+Pasta al Pesto|Busuioc, ule de măsline, semințe de pin, usturoi, brânză pecorino|10|30
+Pasta al Tonno|Ton, ceapă, sos de roșii, smântână, usturoi|10|34
+Pasta al Salmone|Somon, sos de roșii, smântână, usturoi, parmigiano|10|34
+Bere Peroni||5|10
+Bere Moretti||5|10
+Bere fara alcool||5|15
+Coca Cola||5|7
+Coca Cola Zero||5|7
+Fanta||5|7
+Aqua Carpatica carbogazoasă||5|5
+Aqua Carpatica necarbogazoasă||5|5

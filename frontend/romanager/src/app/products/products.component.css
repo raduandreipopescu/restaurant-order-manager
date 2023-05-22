@@ -1,0 +1,15 @@
+.card {
+  width: 60%;
+  margin: auto;
+  padding-top: 40px;
+}
+
+.add-button {
+  font-size: 14px;
+  margin: 10px;
+  width: 240px;
+}
+
+.tableContainer {
+  border: 1px solid lightgrey;
+}

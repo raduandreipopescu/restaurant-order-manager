@@ -1,0 +1,57 @@
+<div>
+  <form [formGroup]="orderDetailsForm" (ngSubmit)="onSubmit()">
+    <p>
+      <mat-form-field
+        appearance="fill"
+        style="margin: 10px 10px 10px 10px; width: 400px"
+      >
+        <mat-label>Product id</mat-label>
+        <input
+          matInput
+          id="productId"
+          type="text"
+          formControlName="productId"
+        />
+      </mat-form-field>
+    </p>
+    <p>
+      <mat-form-field
+        appearance="fill"
+        style="margin: 10px 10px 10px 10px; width: 400px"
+      >
+        <mat-label>Product name</mat-label>
+        <input
+          matInput
+          id="productName"
+          type="text"
+          formControlName="productName"
+        />
+      </mat-form-field>
+    </p>
+    <p>
+      <mat-form-field appearance="fill" style="margin: 10px 10px 10px 10px">
+        <mat-label>Quantity</mat-label>
+        <input matInput id="quantity" type="text" formControlName="quantity" />
+      </mat-form-field>
+    </p>
+    <div>
+      <button
+        mat-raised-button
+        color="primary"
+        style="margin: 10px 10px 10px 10px"
+        type="submit"
+        [disabled]="!orderDetailsForm.valid"
+      >
+        Save
+      </button>
+      <button
+        mat-raised-button
+        color="warn"
+        style="margin: 10px 10px 10px 10px"
+        (click)="cancel()"
+      >
+        Cancel
+      </button>
+    </div>
+  </form>
+</div>
